@@ -1,5 +1,5 @@
 Roman Belaire
-Contained in this folder is the source code as my submission for the interview challenge. Matrix2D.h contains the definitions and implementation for my matrix class, while main.cpp contains a few test cases.
+Matrix2D.h contains the definitions and implementation for my matrix class, while main.cpp contains a few test cases.
 
 Test cases:
 Test 1 creates a 3x5 float matrix and performs all available matrix operations on it. 
