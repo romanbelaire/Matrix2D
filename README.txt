@@ -1,3 +1,6 @@
+
+This code was written as a take-home interview question for an undisclosed company a few years ago. In the scope of my GitHub portfolio, it serves as a code sample proving I do indeed know C++, although I'm not sure if that's necessary for the roles I'm applying to now. 
+
 Roman Belaire
 Matrix2D.h contains the definitions and implementation for my matrix class, while main.cpp contains a few test cases.
 
